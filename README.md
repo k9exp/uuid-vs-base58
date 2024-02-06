@@ -1,4 +1,4 @@
-#### UUID vs Base58 Benchmark
+### UUID vs Base58 Benchmark
 
 Run benchmark
 
